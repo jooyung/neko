@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 20210710 Sat 기능 1 추가
 -------------
+=======
+some hot fix
+---------------
+>>>>>>> master
 
 hello git
 second
